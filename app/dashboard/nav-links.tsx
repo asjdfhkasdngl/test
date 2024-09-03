@@ -6,6 +6,8 @@ import {
   import Link from 'next/link';
    
   // ...
+
+  const links: any[] = []
    
   export default function NavLinks() {
     return (
